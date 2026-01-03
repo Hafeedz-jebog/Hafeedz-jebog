@@ -1,4 +1,4 @@
-# 👋 Halo, aku [Nama Kamu]
+# 👋 Halo, aku Hafeedz 
 
 🎓 Pelajar | 💻 Beginner Programmer  
 🌱 Lagi belajar: HTML, CSS, JavaScript  
@@ -7,7 +7,7 @@
 
 ## 🚀 Tentang Aku
 - 🔭 Tertarik di bidang **Web Development**
-- 📚 Sedang belajar coding secara mandiri
+- 📚 Sedang belajar coding di kampus
 - 🎯 Target: jadi developer yang jago & konsisten
 
 ---
