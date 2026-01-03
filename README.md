@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Halo, aku [Nama Kamu]
 
-<!--
-**Hafeedz-jebog/Hafeedz-jebog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pelajar | 💻 Beginner Programmer  
+🌱 Lagi belajar: HTML, CSS, JavaScript  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tentang Aku
+- 🔭 Tertarik di bidang **Web Development**
+- 📚 Sedang belajar coding secara mandiri
+- 🎯 Target: jadi developer yang jago & konsisten
+
+---
+
+## 🛠️ Tech Stack
+- 🌐 HTML
+- 🎨 CSS
+- ⚙️ JavaScript
+- 🧠 Git & GitHub
+
+---
+
